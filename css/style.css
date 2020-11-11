@@ -72,10 +72,8 @@ h2, h3 {
 
 .container {
     position: relative;
-    /* text-align: center; */
     align-items: center;
     color: black;
-    /* display: inline-block */
 }
 
 .Tables {
